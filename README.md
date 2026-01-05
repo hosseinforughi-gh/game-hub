@@ -2,8 +2,9 @@
 
 A modern game discovery web app built with **React + TypeScript** that lets users browse, search, filter, and explore game details using the **RAWG API**.
 
-**Live Demo:** https://hf-game-hub.vercel.app
-**Repository:** https://github.com/hosseinforughi-gh/game-hub
+- **Live Demo:** https://hf-game-hub.vercel.app  
+- **Repository:** https://github.com/hosseinforughi-gh/game-hub
+
 
 ---
 
